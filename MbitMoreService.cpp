@@ -4,7 +4,7 @@
   */
 #include "MbitMoreService.h"
 
-int gpio[] = {0, 1, 2, 8, 13, 14, 15, 16};
+int gpio[] = {0, 1, 2, 8, 12, 13, 14, 15, 16};
 int analogIn[] = {0, 1, 2};
 int digitalIn[] = {0, 1, 2}; // PullUp at connected to be same behaviour as the standard extension.
 
